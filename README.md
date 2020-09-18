@@ -12,6 +12,9 @@ Hiện nay nhu cầu mua hàng điện tử qua các trang mạng online đang t
 ## Người Dùng
 * Những người có nhu cầu mua, tham khảo đồ điện tử.
 
+## Tính Năng
+*Đang phát triển
+
 ## Tác Giả
 * Đặng Anh Tú - 19520325 
 * Lâm Văn Hồng - 19520094
