@@ -2,7 +2,7 @@
 Electronic purchase application
 
 ## Mô Tả 
-Hiện nay nhu cầu mua hàng điện tử qua các trang mạng online đang tăng mạnh, các công cụ giúp người dùng dễ dàng tiếp cận với người bán cũng như sản phẩm sẽ giúp thị trường mua bán trở nên tiện lợi và nhanh gọn hơn. Ứng dụng cung cấp các thông tin cơ bản, thực hiện việc mua bán của các sản phẩm đồ điện tử như bàn phím, chuột ...
+Hiện nay nhu cầu mua hàng, trong đó có hàng điện tử qua các trang mạng online đang tăng mạnh, cần có các công cụ giúp người dùng dễ dàng tiếp cận với sản phẩm cũng như người bán sẽ giúp thị trường mua bán trở nên tiện lợi và nhanh gọn hơn. Ứng dụng cung cấp các thông tin cơ bản, thực hiện việc mua bán của các sản phẩm đồ điện tử như bàn phím, chuột...
 
 ## Công Nghệ 
 * IDE: Visual Studio 2019 (C#/.Net)
