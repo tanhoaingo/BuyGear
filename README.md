@@ -9,6 +9,9 @@ Hiện nay nhu cầu mua hàng điện tử qua các trang mạng online đang t
 * Database: SQL Server
 * Công cụ quản lý: GitHub
 
+## Người Dùng
+* Những người có nhu cầu mua, tham khảo đồ điện tử.
+
 ## Tác Giả
 * Đặng Anh Tú - 19520325 
 * Lâm Văn Hồng - 19520094
